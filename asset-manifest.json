@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Car_Serach_assignment/static/css/main.728753b6.css",
+    "main.js": "/Car_Serach_assignment/static/js/main.b022d79e.js",
+    "index.html": "/Car_Serach_assignment/index.html",
+    "main.728753b6.css.map": "/Car_Serach_assignment/static/css/main.728753b6.css.map",
+    "main.b022d79e.js.map": "/Car_Serach_assignment/static/js/main.b022d79e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.728753b6.css",
+    "static/js/main.b022d79e.js"
+  ]
+}
