@@ -1,0 +1,28 @@
+.car-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 -8px;
+  }
+  
+  /* Style individual car cards within the CarList */
+  .car-list .car-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 8px;
+    width: calc(33.33% - 16px);
+    text-align: center;
+  }
+  
+  .car-list .car-card img {
+    max-width: 100%;
+  }
+  
+  .car-list .car-card h2 {
+    margin: 8px 0;
+  }
+  
+  .car-list .car-card p {
+    font-weight: bold;
+  }
+  
